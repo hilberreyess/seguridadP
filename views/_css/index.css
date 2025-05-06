@@ -1,0 +1,7 @@
+.mayusculas{text-transform:uppercase}
+
+body{
+    background-image: url('../images/bg-guerrero-jaguar.png');
+    background-size: 20%;
+    background-color: #e9e9e9;
+}

@@ -1,0 +1,4 @@
+/*Agrega un color personalizado de la fila en al que se encuentra el cursor*/
+#tablaPersonal.dataTable tbody tr:hover {
+    background-color: #ffa;
+  }

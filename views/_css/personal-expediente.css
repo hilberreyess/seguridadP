@@ -1,0 +1,40 @@
+
+.nav-tabs > li > a  {
+    cursor: default !important;
+    font-weight:600 !important;
+    border:1px solid #b9b8b8 !important;
+    border-bottom-color: transparent;
+    margin-left: 4px;
+}
+
+.nav-tabs > li.active > a  {
+    cursor: default !important;    
+    color: #3c763d !important;
+    font-weight:600 !important;
+    background-color: #dff0d8 !important;
+    border:1px solid #d6e9c6 !important;
+    border-bottom-color: transparent;
+}
+
+.nav > li > a:hover, .nav > li.disabled  {
+    text-decoration: none;
+    background:#DDD;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background: none;
+}
+
+
+/*Ajusta el Tamaño del menu desplegable de bootstrap-select*/
+.bootstrap-select .dropdown-menu{
+    max-width: 100%!important;
+ }
+
+
+
+ select .ui-datepicker-year{
+    background: #3c763d !important;
+    color:red !important;
+ }

@@ -1,0 +1,11 @@
+.mayusculas{text-transform:uppercase}
+
+.panel-personal > .panel-heading:hover,
+.panel-empresas > .panel-heading:hover,
+.panel-clientes > .panel-heading:hover,
+.panel-armamento > .panel-heading:hover,
+.panel-vehiculos > .panel-heading:hover,
+.panel-radios > .panel-heading:hover{
+    cursor:pointer;
+    color: hwb(0 77% 23%);;
+}
